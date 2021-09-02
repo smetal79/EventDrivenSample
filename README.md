@@ -5,12 +5,12 @@
  There are three services involved in this sample.
 
  * `Demo.Order.Api` -> API endpoint to receive order
- * `Demo.Order.Endpoint` -> Worker endpoint that process the order requests
- * `Demo.Payment.Endpoint` -> Worker endpoint that process payment messages
+ * `Demo.Order.Endpoint` -> Worker endpoint that processes the order requests
+ * `Demo.Payment.Endpoint` -> Worker endpoint that processes payment messages
 
 
  # How to run
-  * Go to the root directior
+  * Go to the root directiory
   * Run `docker compose up`. This will run all the dependencies (RabbitMq, Postgres)
   * Run the solution (Ensure that all the `Demo.Order.Api`, `Demo.Order.Endpoint` and `Demo.Payment.Endpoint` are set as start up projects )
   * Ignore the licensing page opened by the application when it starts

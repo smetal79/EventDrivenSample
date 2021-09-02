@@ -13,6 +13,5 @@
     <ItemGroup>
       <ProjectReference Include="..\Demo.NServiceBus\Demo.NServiceBus.csproj" />
       <ProjectReference Include="..\Demo.Payment.Endpoint.ServiceContracts\Demo.Payment.ServiceContracts.csproj" />
-      <ProjectReference Include="..\Demo.Sms.Endpoint.ServiceContracts\Demo.Payment.Endpoint.ServiceContracts.csproj" />
     </ItemGroup>
 </Project>

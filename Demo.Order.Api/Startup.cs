@@ -1,3 +1,4 @@
+using System;
 using Demo.Order.Api.Queries;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -15,10 +16,7 @@ namespace Demo.Order.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo {Title = "Order API"});
-            });
+            services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "Order API"}); });
             services.AddMediatR(typeof(Startup));
             services.AddTransient<IOrderQuery, OrderQuery>();
         }
@@ -32,13 +30,15 @@ namespace Demo.Order.Api
             }
 
             app.UseSwagger();
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Order API"));
+            app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Order API");
+                    c.RoutePrefix = string.Empty;
+                }
+            );
             app.UseRouting();
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
-            });
+            app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
         }
     }
 }

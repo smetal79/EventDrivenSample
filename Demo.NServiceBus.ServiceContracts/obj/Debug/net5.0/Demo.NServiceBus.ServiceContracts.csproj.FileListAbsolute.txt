@@ -1,0 +1,12 @@
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.deps.json
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\bin\Debug\net5.0\ref\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.csprojAssemblyReference.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.AssemblyInfoInputs.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.AssemblyInfo.cs
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\ref\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus.ServiceContracts\obj\Debug\net5.0\Demo.NServiceBus.ServiceContracts.pdb

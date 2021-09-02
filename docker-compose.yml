@@ -1,0 +1,43 @@
+services:
+  rabbitmq-doker:
+    image: rabbitmq:3.8-management-alpine
+    hostname: my-rabbit
+    container_name: rabbitmq-doker
+    ports: 
+      - '5672:5672'
+      - '15672:15672'
+    environment: 
+      AMQP_URL: 'amqp://rabbitmq?connection_attempts=5&retry_delay=5'
+      RABBITMQ_DEFAULT_USER: 'guest'
+      RABBITMQ_DEFAULT_PASS: 'guest'
+
+  db:
+    image: postgres
+    restart: always
+    ports:
+      - '5432:5432'
+    volumes:
+      - my_dbdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: Demo
+
+  db-admin:
+    image: dpage/pgadmin4
+    restart: always
+    container_name: pgadmin4
+    ports: 
+      - '9000:80'
+    environment: 
+      PGADMIN_DEFAULT_EMAIL: admin@example.com
+      PGADMIN_DEFAULT_PASSWORD: pwd
+
+    networks:
+      - network
+
+networks:
+  network: {}
+
+volumes:
+  my_dbdata:

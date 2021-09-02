@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <UserSecretsId>dotnet-Demo.Order.Endpoint-74A264E2-0839-476C-9F62-0140868AE9E2</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="EFCore.NamingConventions" Version="5.0.2" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Demo.NServiceBus\Demo.NServiceBus.csproj" />
+      <ProjectReference Include="..\Demo.Order.ApplicationServices\Demo.Order.ApplicationServices.csproj" />
+      <ProjectReference Include="..\Demo.Order.Persistence\Demo.Order.Persistence.csproj" />
+      <ProjectReference Include="..\Demo.Order.ServiceContracts\Demo.Order.ServiceContracts.csproj" />
+    </ItemGroup>
+</Project>

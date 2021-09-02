@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Demo.Payment.ServiceContracts</RootNamespace>
+        <AssemblyName>Demo.Payment.ServiceContracts</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Demo.NServiceBus.ServiceContracts\Demo.NServiceBus.ServiceContracts.csproj" />
+    </ItemGroup>
+
+</Project>

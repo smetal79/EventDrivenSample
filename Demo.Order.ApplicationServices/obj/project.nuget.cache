@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "nadO9XIttLoqRHEL1ndqdHj4h3prGSlsfEqPF16KSLBhYrb53Lrm0T9TQ97hxQbLL/ym4M/pNIH3FrNRoTkO1g==",
+  "success": true,
+  "projectFilePath": "C:\\etc\\EventDrivenSample\\Demo.Order.ApplicationServices\\Demo.Order.ApplicationServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\nservicebus\\7.5.0\\nservicebus.7.5.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.reflection.metadata\\1.8.1\\system.reflection.metadata.1.8.1.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.cryptography.xml\\4.7.0\\system.security.cryptography.xml.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

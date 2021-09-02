@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7F4UvQMgncxRE4zPTlvj6zDonBbGLq+Ih5ehm5JAJJvyW+7mLViwFcAtMXFgXw4nnYiJ1X2bUbMsiq9r9ivUg==",
+  "success": true,
+  "projectFilePath": "C:\\etc\\EventDrivenSample\\Demo.Order.Domain\\Demo.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

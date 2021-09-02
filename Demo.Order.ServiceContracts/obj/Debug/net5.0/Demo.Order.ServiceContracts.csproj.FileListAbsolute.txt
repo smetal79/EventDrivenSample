@@ -1,0 +1,15 @@
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\Demo.Order.ServiceContracts.deps.json
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\Demo.Order.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\ref\Demo.Order.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\Demo.Order.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.csprojAssemblyReference.cache
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.AssemblyInfoInputs.cache
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.AssemblyInfo.cs
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.csproj.CopyComplete
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\ref\Demo.Order.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Order.ServiceContracts\obj\Debug\net5.0\Demo.Order.ServiceContracts.pdb

@@ -1,0 +1,15 @@
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\Demo.NServiceBus.deps.json
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\Demo.NServiceBus.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\ref\Demo.NServiceBus.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\Demo.NServiceBus.pdb
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.csprojAssemblyReference.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.AssemblyInfoInputs.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.AssemblyInfo.cs
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.csproj.CoreCompileInputs.cache
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.csproj.CopyComplete
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\ref\Demo.NServiceBus.dll
+C:\etc\EventDrivenSample\Demo.NServiceBus\obj\Debug\net5.0\Demo.NServiceBus.pdb

@@ -1,0 +1,15 @@
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.deps.json
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\ref\Demo.Sms.Endpoint.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\bin\Debug\net5.0\Demo.NServiceBus.ServiceContracts.pdb
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.csprojAssemblyReference.cache
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.AssemblyInfoInputs.cache
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.AssemblyInfo.cs
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.csproj.CopyComplete
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\ref\Demo.Sms.Endpoint.ServiceContracts.dll
+C:\etc\EventDrivenSample\Demo.Sms.Endpoint.ServiceContracts\obj\Debug\net5.0\Demo.Sms.Endpoint.ServiceContracts.pdb

@@ -1,0 +1,12 @@
+C:\etc\EventDrivenSample\Demo.Order.Domain\bin\Debug\net5.0\Demo.Order.Domain.deps.json
+C:\etc\EventDrivenSample\Demo.Order.Domain\bin\Debug\net5.0\Demo.Order.Domain.dll
+C:\etc\EventDrivenSample\Demo.Order.Domain\bin\Debug\net5.0\ref\Demo.Order.Domain.dll
+C:\etc\EventDrivenSample\Demo.Order.Domain\bin\Debug\net5.0\Demo.Order.Domain.pdb
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.csprojAssemblyReference.cache
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.AssemblyInfoInputs.cache
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.AssemblyInfo.cs
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.csproj.CoreCompileInputs.cache
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.dll
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\ref\Demo.Order.Domain.dll
+C:\etc\EventDrivenSample\Demo.Order.Domain\obj\Debug\net5.0\Demo.Order.Domain.pdb

@@ -24,3 +24,8 @@
 
 # Example
 ![Sample](./eventdriven.gif)
+ 
+ # Inspired by
+  DDD & Hexagonal architecture
+  
+ ![Sample](./hexagon.jpg)
